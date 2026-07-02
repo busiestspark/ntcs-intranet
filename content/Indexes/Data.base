@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!file.ctime.isEmpty()"
+        - '!file.hasTag("Hub")'
+        - '!file.name.endsWith("base")'
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.ctime
+        direction: DESC

@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Staff")
+    order:
+      - file.name
+      - Position
+      - Category
+    sort:
+      - property: Role
+        direction: DESC

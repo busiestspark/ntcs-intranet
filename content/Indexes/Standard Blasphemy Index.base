@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Blasphemy")
+        - '!file.hasTag("HighBlasphemy")'
+        - '!file.hasTag("ExperimentalBlasphemy")'
+    image: note.image
+    imageFit: contain
+    imageAspectRatio: 0.7

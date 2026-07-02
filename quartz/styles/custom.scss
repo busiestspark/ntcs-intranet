@@ -1,3 +1,97 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root {
+    --pagewidth: 2000px;
+}
+
+@media all and (min-width: 1200px) {
+    .page {
+        max-width: var(--pagewidth);
+    }
+}
+
+.infobox {
+  float: right;
+  width: 350px;
+  margin: 0 0 20px 20px;
+  background-color: var(--light);
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 0.9em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  
+  /* Force table layout fixes inside the box */
+  table {
+    margin: 0;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    
+    tr, th, td {
+      border: none;
+      padding: 1px 4px;
+    }
+    
+    /* Highlight the main label column */
+    td:first-child {
+      font-weight: bold;
+      width: 35%;
+      color: var(--darkgray);
+    }
+  }
+
+  /* Header style for the title image/banner */
+  .infobox-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--gray);
+    margin-bottom: 8px;
+  }
+}
+
+.timeline {
+  table {
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    margin: 20px 0;
+
+    tr {
+      border-bottom: 1px solid #008000;
+      padding: 1px 4px;
+    }
+
+    th, td {
+      border: none;
+      padding: 1px 4px;
+    }
+  }
+}
+
+a.internal, a.markdown-embed-link, .page-body a {
+    background-color: transparent;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+
+    &:hover {
+        background-color: transparent;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        color: #FFFFFF;
+    }
+}
+
+pre {
+    background: transparent;
+    border: none;
+}
+
+.redacted span {
+    background-color: #00FF00;
+    color: #00FF00;
+    user-select: none;
+}

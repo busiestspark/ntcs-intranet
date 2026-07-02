@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("Hub")
+        - file.name != "index"
