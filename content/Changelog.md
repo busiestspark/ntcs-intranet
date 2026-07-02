@@ -1,7 +1,7 @@
 # Beta
 
 ## 0.2 beta
-*Unreleased*
+*July 2nd, 2026*
 
 - Approved the [[Veil Protocol]] page for real this time
 ## 0.1 beta
