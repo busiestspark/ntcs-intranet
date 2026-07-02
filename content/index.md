@@ -39,7 +39,7 @@ AS ABOVE, SO BELOW
 </div>
 <hr>
 
-CAIN-NET ver. 0.1 beta
+CAIN-NET ver. 0.2 beta
 *[[Changelog|View Changelog]]*
 
 [[Intranet Login|Log in to your intranet account here.]]

@@ -48,6 +48,6 @@ Category: "1"
 
 </div>
 
-Emmanuel Morrow is a retired exorcist operating out of the Black Harbor site in North America.
+Emmanuel Morrow is a retired exorcist operating out of the [[Black Harbor]] site in North America.
 
 He is known for wielding the [[Bind]] Blasphemy.
