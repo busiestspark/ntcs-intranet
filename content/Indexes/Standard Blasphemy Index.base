@@ -6,6 +6,8 @@ views:
         - file.hasTag("Blasphemy")
         - '!file.hasTag("HighBlasphemy")'
         - '!file.hasTag("ExperimentalBlasphemy")'
+    sort:
+      - property: blsphID
+        direction: ASC
     image: note.image
-    imageFit: contain
     imageAspectRatio: 0.7

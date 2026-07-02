@@ -4,5 +4,7 @@ views:
     filters:
       and:
         - file.hasTag("ExperimentalBlasphemy")
-    imageFit: contain
+    sort:
+      - property: blsphID
+        direction: ASC
     image: note.image

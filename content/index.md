@@ -39,7 +39,10 @@ AS ABOVE, SO BELOW
 </div>
 <hr>
 
-<a href="/Inbox/Intranet Email" style="color: yellow;"> ⓘ You have 1 new message since July 1st, 2026. </a>
+CAIN-NET ver. 0.1 beta
+*[[Changelog|View Changelog]]*
+
+[[Intranet Login|Log in to your intranet account here.]]
 
 Welcome to the CAIN Intranet.
 
@@ -50,6 +53,7 @@ Use the links below to access specific document categories, or browse the databa
 ![[Hub Index.base]]
 
 ---
+# Database
 
 ![[Data.base]]
 

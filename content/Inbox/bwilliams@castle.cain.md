@@ -1,9 +1,12 @@
-You are currently logged in as guest\@castle.cain.
+---
+unlisted: true
+---
 
-You have **1** new message.
+[[Intranet Login|Return to login]]
 
+You have **1** new message since **July 1st, 2026**.
 ###### July 1st, 2026
-> **TO:** guest\@castle.cain
+> **TO:** all
 > **FROM:** [[Emmanuel Morrow|emorrow@castle.cain]]
 > **SUBJECT:** New Intranet Access
 > 

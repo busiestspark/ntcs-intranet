@@ -3,13 +3,14 @@ tags:
   - Blasphemy
   - ExperimentalBlasphemy
 image: "[[Wire Card.png]]"
+blsphID: "15"
 ---
 <div class="infobox" >
 <div class="infobox-title">Wire</div>
 
 <br>
 <img src="Wire Card.png" alt="IMAGE NOT FOUND">
-<br>
+<div style="font-size: 0.85rem; padding-left: 2rem; text-align: right;">Art by Tom Bloom, from Games For Freaks Volume 3</div>
 </div>
 
 **Wire** is an experimental [[Blasphemies|Blasphemy]].

@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Concept")
+    sort:
+      - property: file.name
+        direction: DESC

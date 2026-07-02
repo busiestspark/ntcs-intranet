@@ -11,5 +11,7 @@ views:
       - file.ctime
       - file.mtime
     sort:
+      - property: file.size
+        direction: DESC
       - property: file.ctime
         direction: DESC
