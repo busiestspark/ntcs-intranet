@@ -6,7 +6,7 @@ configuration:
   enablePopovers: false
   analytics:
     provider: umami
-    host: "https://umami.is"
+    host: "https://cloud.umami.is"
     websiteId: "ec9cc3d0-74c1-4892-b162-348228c9b69a"
   locale: en-US
   baseUrl: ntcs-intranet.github.io
