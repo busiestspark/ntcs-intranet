@@ -10,6 +10,17 @@
     }
 }
 
+body::after {
+    content: "This website is not affiliated with Tom Bloom/CHASM.";
+    display: block;
+    text-align: left;
+    padding: 2rem;
+    font-size: 0.9rem;
+    color: var(--gray);
+    border-top: 1px solid var(--lightgray);
+    margin-top: 4rem;
+  }
+
 .index-flex {
   display: flex;
   flex-wrap: wrap;

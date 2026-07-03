@@ -1,4 +1,10 @@
 # Beta
+
+## 0.3.1 beta
+*July 3rd, 2026*
+
+- Updated the site footer properly this time
+
 ## 0.3 beta
 *July 3rd, 2026*
 
