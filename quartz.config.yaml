@@ -5,7 +5,9 @@ configuration:
   enableSPA: true
   enablePopovers: false
   analytics:
-    provider: plausible
+    provider: umami
+    host: "https://umami.is"
+    websiteId: "ec9cc3d0-74c1-4892-b162-348228c9b69a"
   locale: en-US
   baseUrl: ntcs-intranet.github.io
   ignorePatterns:
