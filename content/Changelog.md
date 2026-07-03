@@ -1,5 +1,16 @@
 # Beta
+## 0.3 beta
+*July 3rd, 2026*
 
+- Approved access to Virtue archives
+- Approved access to numerous dictionary archives
+- Approved access to select location archives
+- Approved access to Drifters archives
+- Updated CAIN-NET email client
+	- Emails are now sorted into "recent" and "older" categories
+	- Emails are reformatted into collapsibles for easier viewing
+- Updated the site footer for clarity
+- Added site credits
 ## 0.2 beta
 *July 2nd, 2026*
 

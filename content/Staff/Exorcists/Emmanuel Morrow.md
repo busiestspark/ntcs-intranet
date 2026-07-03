@@ -3,7 +3,8 @@ tags:
   - Staff
   - Exorcist
 Position: Senior Operations Advisor
-Category: "1"
+Category: "4"
+Division: CASTLE
 ---
 <div class="infobox" >
 <div class="infobox-title">Emmanuel Morrow</div>
@@ -32,9 +33,10 @@ Category: "1"
 | | |
 | --- | --- |
 | **Position** | Senior Operations Advisor |
-| **Division** | CASTLE |
-| **Site** | Black Harbor |
+| **Division** | [[CASTLE]] |
+| **Site** | [[Black Harbor]] |
 | **Status** | Active |
+| **Email** | emorrow@castle.cain |
 | **XID** | <div class="redacted">X<span>XXXXXX</span></div> |
 | **CID** | <div class="redacted">XXX<span>0123456789</span></div> |
 

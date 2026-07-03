@@ -12,7 +12,7 @@ blsphID: "3"
 </div>
 
 <div style="padding-right: calc(400px);">
-<div style="color: yellow; border: 1px solid yellow; padding: 1rem;">CAUTION<br><br>All manipulation of time must ultimately adhere to the "GYRE 2" temporal code. Deliberate attempts to alter time in a way that subvert this standard are to be considered a CLASS-A breach of the <a href="Veil Protocol" style="color: yellow;">Veil Protocol.</a></div>
+<div style="color: yellow; border: 1px solid yellow; padding: 1rem;">⚠ CAUTION<br><br>All manipulation of time must ultimately adhere to the "GYRE 2" temporal code. Deliberate attempts to alter time in a way that subvert this standard are to be considered a CLASS-A breach of the <a href="Veil Protocol" style="color: yellow;">Veil Protocol.</a></div>
 </div>
 
 **Flux** is a standard [[Blasphemies|Blasphemy]].

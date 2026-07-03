@@ -21,3 +21,9 @@ A "CLASS-B" violation occurs when a CAIN employee accidentally violates the Veil
 Punishments for such violations are determined on a case-by-case basis by Site Adjudicators based on the severity of the infraction.
 
 [^1]: It has been determined too risky to release terminated individuals back into society even after a complete memory purge. Personnel are expected to remain with the organization permanently for the sake of the protocol.
+
+# Maintenance
+
+[[AUTHORITY]] is the division responsible for upholding the Veil Protocol and repairing any and all breaches.
+
+This is primarily accomplished through use of the VEIL Blasphemy, belonging to the [[Virtues|Virtue]] [[Hope]].

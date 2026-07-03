@@ -4,6 +4,7 @@ tags:
   - Exorcist
 Position: Junior Exorcist
 Category: "1"
+Division: CASTLE
 ---
 <div class="infobox" >
 <div class="infobox-title">Violet Okonoi</div>
@@ -33,9 +34,10 @@ Category: "1"
 | | |
 | --- | --- |
 | **Position** | Junior Exorcist |
-| **Division** | CASTLE |
-| **Site** | Black Harbor |
+| **Division** | [[CASTLE]] |
+| **Site** | [[Black Harbor]] |
 | **Status** | Active |
+| **Email** | vokonoi@castle.cain |
 | **XID** | <div class="redacted">X<span>XXXXXX</span></div> |
 | **CID** | <div class="redacted">XXX<span>0123456789</span></div> |
 

@@ -13,7 +13,7 @@ blsphID: "11"
 </div>
 
 <div style="padding-right: calc(400px);">
-<div style="border: 1px solid #00FF00; padding: 1rem;">REMINDER<br><br>Use of Blasphemies on CAIN personnel, even for "recreational purposes", is strictly prohibited.</div>
+<div style="border: 1px solid #00FF00; padding: 1rem;">ⓘ FACT<br><br>Use of Blasphemies on CAIN personnel, even for "recreational purposes", is strictly prohibited.</div>
 </div>
 
 **Jaunt** is a standard [[Blasphemies|Blasphemy]].

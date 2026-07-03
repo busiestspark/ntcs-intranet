@@ -4,6 +4,7 @@ tags:
   - Exorcist
 Position: Junior Exorcist
 Category: "1"
+Division: CASTLE
 ---
 <div class="infobox" >
 <div class="infobox-title">Blare</div>
@@ -33,9 +34,10 @@ Category: "1"
 | | |
 | --- | --- |
 | **Position** | Junior Exorcist |
-| **Division** | CASTLE |
-| **Site** | Black Harbor |
+| **Division** | [[CASTLE]] |
+| **Site** | [[Black Harbor]] |
 | **Status** | Active |
+| **Email** | bwilliams@castle.cain |
 | **XID** | X800815 |
 | **CID** | XXX6742069666 |
 

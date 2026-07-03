@@ -21,6 +21,4 @@ These are blasphemies that were either created through special procedures or whi
 ---
 # High Blasphemies
 
-These are mutant Blasphemies exhibited by the [[Virtues]]. They are currently believed to be wholly unique and are all immensely powerful.
-
-![[High Blasphemy Index.base]]
+These are mutant Blasphemies exhibited by the [[Virtues]]. They are currently believed to be wholly unique and are all immensely powerful. As every High Blasphemy is unique to their exorcist, more information on them can be found on each Virtue's page.

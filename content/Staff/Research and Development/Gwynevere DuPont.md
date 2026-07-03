@@ -1,7 +1,8 @@
 ---
 tags: Staff
 Position: General Assistant Researcher
-Category: "1"
+Category: "3"
+Division: TEMERITY
 ---
 <div class="infobox" >
 <div class="infobox-title">Gwynevere DuPont</div>
@@ -30,9 +31,10 @@ Category: "1"
 | | |
 | --- | --- |
 | **Position** | General Assistant Researcher  |
-| **Division** | TEMERITY |
-| **Site** | Black Harbor |
+| **Division** | [[TEMERITY]] |
+| **Site** | [[Black Harbor]] |
 | **Status** | Active |
+| **Email** | gdupont@temerity.cain |
 | **XID** | <div class="redacted">X<span>XXXXXX</span> |
 | **CID** | <div class="redacted">XXX<span>0123456789</span> |
 

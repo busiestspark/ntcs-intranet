@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Virtue")
+    image: note.image
+    imageFit: contain

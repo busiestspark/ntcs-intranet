@@ -1,7 +1,8 @@
 ---
 tags: Staff
 Position: Dormitory Administrator
-Category: "1"
+Category: "0"
+Division: CASTLE
 ---
 <div class="infobox" >
 <div class="infobox-title">Chand Joshi</div>
@@ -30,8 +31,9 @@ Category: "1"
 | | |
 | --- | --- |
 | **Position** | Dormitory Administrator |
-| **Division** | CASTLE |
-| **Site** | Black Harbor |
+| **Division** | [[CASTLE]] |
+| **Site** | [[Black Harbor]] |
+| **Email** | cjoshi@castle.cain |
 | **Status** | Active |
 | **CID** | <div class="redacted">XXX<span>0123456789</span> |
 

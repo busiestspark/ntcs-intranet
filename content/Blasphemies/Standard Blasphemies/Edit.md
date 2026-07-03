@@ -13,7 +13,7 @@ blsphID: "8"
 </div>
 
 <div style="padding-right: calc(400px);">
-<div style="border: 1px solid #00FF00; padding: 1rem;">REMINDER<br><br>Edit users are may be required to assume the form on their CID card for identification. If you would like to change the photo on your CID card, see the CID Reapplication Form.</div>
+<div style="border: 1px solid #00FF00; padding: 1rem;">ⓘ REMINDER<br><br>Edit users are may be required to assume the form on their CID card for identification. If you would like to change the photo on your CID card, see the CID Reapplication Form.</div>
 </div>
 
 **Edit** is a standard [[Blasphemies|Blasphemy]].

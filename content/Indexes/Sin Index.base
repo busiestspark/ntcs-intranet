@@ -1,6 +1,48 @@
 views:
   - type: table
-    name: Table
+    name: All Sins
     filters:
       and:
         - file.hasTag("Sin")
+  - type: table
+    name: Ogre
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Ogre")
+  - type: table
+    name: Idol
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Idol")
+  - type: table
+    name: Hound
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Hound")
+  - type: table
+    name: Centipede
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Centipede")
+  - type: table
+    name: Toad
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Toad")
+  - type: table
+    name: Lord
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - file.hasTag("Lord")
+  - type: table
+    name: Non-Standard
+    filters:
+      and:
+        - file.hasTag("Sin")
+        - '!file.hasTag("Ogre", "Idol", "Hound", "Centipede", "Toad", "Lord")'

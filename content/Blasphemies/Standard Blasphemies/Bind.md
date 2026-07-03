@@ -13,7 +13,7 @@ blsphID: "9"
 </div>
 
 <div style="padding-right: calc(400px);">
-<div style="color: red; border: 1px solid red; padding: 1rem;" margin-right: 1rem;"">WARNING<br><br>BINDING IS A HERETICAL PRACTICE AND IS PUNISHABLE BY IMMEDIATE EXECUTION. ONLY REGISTERED EXORCISTS WITH PROPER AUTHORIZATION ARE APPROVED TO PRACTICE BINDING.</div> 
+<div style="color: red; border: 1px solid red; padding: 1rem;" margin-right: 1rem;"">⚠ WARNING<br><br>BINDING IS A HERETICAL PRACTICE AND IS PUNISHABLE BY IMMEDIATE EXECUTION. ONLY REGISTERED EXORCISTS WITH PROPER AUTHORIZATION ARE APPROVED TO PRACTICE BINDING.</div> 
 </div>
 
 **Bind** is a standard [[Blasphemies|Blasphemy]].
