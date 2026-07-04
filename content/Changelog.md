@@ -1,5 +1,13 @@
 # Beta
 
+## 0.4.1
+*July 4th, 2026*
+
+- Deployed a possible fix for the search function
+## 0.4 beta
+*July 4th, 2026*
+
+- Added CASTLE identifiers to all staff profile cards
 ## 0.3.1 beta
 *July 3rd, 2026*
 

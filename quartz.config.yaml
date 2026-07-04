@@ -9,7 +9,7 @@ configuration:
     host: "https://cloud.umami.is"
     websiteId: "ec9cc3d0-74c1-4892-b162-348228c9b69a"
   locale: en-US
-  baseUrl: ntcs-intranet.github.io
+  baseUrl: busiestspark.github.io/ntcs-intranet
   ignorePatterns:
     - private
     - templates

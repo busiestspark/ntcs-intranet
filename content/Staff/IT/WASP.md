@@ -1,13 +1,5 @@
----
-tags:
-  - Staff
-  - Exorcist
-Position: Junior Exorcist
-Category: "1"
-Division: CASTLE
----
 <div class="infobox" >
-<div class="infobox-title">Henry Penmire</div>
+<div class="infobox-title">WASP</div>
 
 <br>
 <div style="text-align: center;">NO IMAGE ON FILE</div>
@@ -18,36 +10,36 @@ Division: CASTLE
 
 | | |
 | --- | --- |
-| **Full Name** | Henry J. Penmire |
-| **Callsign** | None Designated |
-| **Birthdate** | <div class="redacted"><span>XXXXX</span> <span>XXX</span>, <span>20XX</span></div> |
-| **Birthplace** | <div class="redacted"><span>Queens</span>, <span>Minnesota</span>, <span>U.S.A.</span></div>
+| **Full Name** | <div class="redacted"><span>XXXXXXXXXXXXXXXXXX</span></div> |
+| **Callsign** | WASP |
+| **Birthdate** | <div class="redacted"><span>March</span> <span>18th</span>, <span>2000</span></div> |
+| **Birthplace** | <div class="redacted"><span>XXXXXXXX</span></div> |
 | **Ethnicity** | <div class="redacted"><span>American</span></div> |
-| **Sex** | M |
-| **Height** | 5'7" |
-| **Weight** | 140 lbs. |
-| **Hair Color** | Black |
-| **Eye Color** | Blue |
+| **Sex** | <div class="redacted"><span>X</span></div> |
+| **Height** | <div class="redacted"><span>5</span>'<span>7</span>"</div> |
+| **Weight** | <div class="redacted"><span>XXX</span> lbs. </div> |
+| **Hair Color** |  <div class="redacted"><span>Black</span></div> |
+| **Eye Color** | <div class="redacted"><span>Black</span></div> |
 
 <div style="text-align: center; border-top: 1px solid #00FF00"><br><b>Staff Information</b></div>
 
 | | |
 | --- | --- |
-| **Position** | Junior Exorcist |
+| **Position** | Exorcist; Tech Support |
 | **Division** | [[CASTLE]] |
 | **Site** | [[Black Harbor]] |
 | **Status** | Active |
-| **Email** | hpenmire@castle.cain |
-| **XID** | X950060 |
-| **CID** | XXX8008512505 |
+| **Email** | wasp@castle.cain |
+| **XID** | <div class="redacted">X<span>XXXXXX</span></div> |
+| **CID** | <div class="redacted">XXX<span>0123456789</span></div> |
 
 <div style="text-align: center; border-top: 1px solid #00FF00"><br><b>Psychometrics</b></div>
 
 | | |
 | --- | --- |
-| **Category** | 1 |
-| **Blasphemy** | [[Whisper]] |
-| **Sin Seed** | Brain |
+| **Category** | <div class="redacted"><span>X</span></div> |
+| **Blasphemy** | [[Wire]] |
+| **Sin Seed** | <div class="redacted"><span>XXXXX</span></div> |
 
 <div style="display: flex; border-top: 1px solid #00FF00; padding: 10px; margin-top: 10px; justify-content: space-between; align-items: flex-end;">
 	<div style="font-family: Arial; font-size: 0.75rem; color: #008000;">
@@ -66,4 +58,4 @@ Division: CASTLE
 
 # Overview
 
-Henry Penmire is currently operating as a Junior Exorcist in the North American Division.
+WASP is an exorcist currently working part-time in Information Technology at [[Black Harbor]].

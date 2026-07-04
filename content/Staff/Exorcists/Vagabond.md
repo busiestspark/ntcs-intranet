@@ -49,6 +49,19 @@ Division: CASTLE
 | **Blasphemy** | [[Gate]] |
 | **Sin Seed** | Brain |
 
+<div style="display: flex; border-top: 1px solid #00FF00; padding: 10px; margin-top: 10px; justify-content: space-between; align-items: flex-end;">
+	<div style="font-family: Arial; font-size: 0.75rem; color: #008000;">
+	PROPERTY OF CAIN<br>
+	DO NOT REPRODUCE
+	</div>
+	<div style="display: flex; align-items: flex-end;">
+		<div style="display: flex; justify-content: flex-end; align-items: flex-end; height: 30px; width: 30px; font-weight: bold; color: black; background-color: #008000;">
+			<span style="padding: 2px; font-size: 0.6rem">C</span>
+		</div>
+		<span style="padding-left: 4px; font-family: Arial; color: #008000; font-weight: bold;">CASTLE</span>
+	</div>
+</div>
+
 </div>
 
 VAGABOND is currently operating as a Junior Exorcist in the North American Division.

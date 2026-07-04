@@ -6,4 +6,4 @@ views:
         - file.hasTag("Concept")
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
