@@ -1,9 +1,14 @@
 # Beta
 
+
+## 0.4.2
+*July 4th, 2026*
+
+- Approved access to the [[Grace]] article.
 ## 0.4.1
 *July 4th, 2026*
 
-- Deployed a possible fix for the search function
+- Fixed the search function
 ## 0.4 beta
 *July 4th, 2026*
 
