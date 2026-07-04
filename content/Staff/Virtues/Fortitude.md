@@ -71,19 +71,23 @@ Division: SERAPH
 <div style="display: flex;">
 	<div style="flex-grow: 1;">
 		<div>LIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 5rem;">
+		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
 		- Fighting Strong Opponents
 		</div>
 	</div>
 	<div style="flex-grow: 1;">
 		<div>DISLIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 5rem;">
-		- Everyone
+		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
+		- Humans<br>
+		- Exorcists<br>
+		- All other virtues<br>
+		- Sins<br>
+		- CAIN Leadership
 		</div>
 	</div>
 	<div style="flex-grow: 1;">
 		<div>FAVORITE FOODS</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 5rem;">
+		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
 		- Hot Dogs
 		</div>
 	</div>

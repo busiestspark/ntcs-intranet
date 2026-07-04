@@ -10,7 +10,7 @@ Division: CASTLE
 <div class="infobox-title">Henry Penmire</div>
 
 <br>
-<div style="text-align: center;">NO IMAGE ON FILE</div>
+<img src="Henry Profile.png" alt="IMAGE NOT FOUND">
 
 <br>
 

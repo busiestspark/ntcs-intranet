@@ -10,7 +10,7 @@ Division: CASTLE
 <div class="infobox-title">Jones McKinley</div>
 
 <br>
-<div style="text-align: center;">NO IMAGE ON FILE</div>
+<img src="Jones Profile.png" alt="IMAGE NOT FOUND">
 
 <br>
 

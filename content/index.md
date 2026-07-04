@@ -89,7 +89,8 @@ AS ABOVE, SO BELOW
 	<a href="Intranet Login">Log in to your intranet account here.</a>
 	</div>
 	<div style="text-align: right;">
-	<a href="Credits">View Credits</a>
+	<a href="Credits">View Credits</a><br><br>
+	<a href="WASP_NEST.home" style="color: yellow; display: none;">𓆤</a>
 	</div>
 </div>
 

@@ -1,5 +1,10 @@
 # Beta
 
+
+## 0.4.4
+*July 4th, 2026*
+
+- Added profile pictures for [[Blare]], [[Fennik]], [[Vagabond]], [[Henry Penmire]], [[Jones McKinley]], and [[Violet Okonoi]] courtesy of Shaw
 ## 0.4.3
 *July 4th, 2026*
 
@@ -7,7 +12,7 @@
 ## 0.4.2
 *July 4th, 2026*
 
-- Approved access to the [[Grace]] article.
+- Approved access to the [[Grace]] article
 ## 0.4.1
 *July 4th, 2026*
 

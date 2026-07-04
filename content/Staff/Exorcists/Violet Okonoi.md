@@ -10,7 +10,7 @@ Division: CASTLE
 <div class="infobox-title">Violet Okonoi</div>
 
 <br>
-<div style="text-align: center;">NO IMAGE ON FILE</div>
+<img src="Violet Profile.png" alt="IMAGE NOT FOUND">
 
 <br>
 

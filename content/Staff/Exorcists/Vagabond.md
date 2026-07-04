@@ -10,7 +10,7 @@ Division: CASTLE
 <div class="infobox-title">Vagabond</div>
 
 <br>
-<div style="text-align: center;">NO IMAGE ON FILE</div>
+<img src="Vagabond Profile.png" alt="IMAGE NOT FOUND">
 
 <br>
 
@@ -20,7 +20,7 @@ Division: CASTLE
 | --- | --- |
 | **Full Name** | <div class="redacted"><span>XXXX</span> <span>XXXXXXX</span></div> |
 | **Callsign** | VAGABOND |
-| **Birthdate** | <div class="redacted"><span>XXXXX</span> <span>XXX</span>, <span>20XX</div> |
+| **Birthdate** | <div class="redacted"><span>XXXXX</span> <span>XXX</span>, <span>20XX</span></div> |
 | **Birthplace** | <div class="redacted"><span>Queens</span>, <span>Minnesota</span>, <span>U.S.A.</span></div>
 | **Ethnicity** | <div class="redacted"><span>American</span></div> |
 | **Sex** | M |
