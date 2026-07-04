@@ -1,6 +1,9 @@
 # Beta
 
+## 0.4.3
+*July 4th, 2026*
 
+- Improved the layout of the [[Blasphemies]] page on Desktop (This will likely break the page on Mobile)
 ## 0.4.2
 *July 4th, 2026*
 
@@ -17,7 +20,6 @@
 *July 3rd, 2026*
 
 - Updated the site footer properly this time
-
 ## 0.3 beta
 *July 3rd, 2026*
 
