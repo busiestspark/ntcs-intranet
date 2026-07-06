@@ -4,6 +4,10 @@ views:
     filters:
       and:
         - file.hasTag("Sin")
+    order:
+      - file.name
+      - Category
+      - Type
   - type: table
     name: Ogre
     filters:
@@ -28,6 +32,10 @@ views:
       and:
         - file.hasTag("Sin")
         - file.hasTag("Centipede")
+    order:
+      - file.name
+      - Category
+      - Type
   - type: table
     name: Toad
     filters:
@@ -44,5 +52,8 @@ views:
     name: Non-Standard
     filters:
       and:
-        - file.hasTag("Sin")
-        - '!file.hasTag("Ogre", "Idol", "Hound", "Centipede", "Toad", "Lord")'
+        - file.hasTag("NonStandardSin")
+    order:
+      - file.name
+      - Category
+      - Type

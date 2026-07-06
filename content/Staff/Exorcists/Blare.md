@@ -77,7 +77,7 @@ BLARE wields the [[Track]] Blasphemy.
 Note that irrelevant or restricted data has been omitted from the following entries.
 
 ## Addendum A
->**INTRANET EMAIL ARCHIVE**
+>**EMAIL ARCHIVE**
 >From: [[Chand Joshi|cjoshi@castle.cain]]
 >To: [[Emmanuel Morrow|emorrow@castle.cain]]
 >Subject: New Recruits

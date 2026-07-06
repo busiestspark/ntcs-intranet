@@ -1,3 +1,11 @@
+---
+tags:
+  - Staff
+  - Exorcist
+Category: "?"
+Division: CASTLE
+---
+
 <div class="infobox" >
 <div class="infobox-title">WASP</div>
 

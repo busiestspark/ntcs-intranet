@@ -1,19 +1,24 @@
 # Beta
 
+## 0.4.5 beta
+*July 5th, 2026*
 
-## 0.4.4
+- Approved access to articles relating to the [[Dubai - 2016-08-09|Dubai Incident]]
+- Improved the layout of the [[Sins]] page
+
+## 0.4.4 beta
 *July 4th, 2026*
 
 - Added profile pictures for [[Blare]], [[Fennik]], [[Vagabond]], [[Henry Penmire]], [[Jones McKinley]], and [[Violet Okonoi]] courtesy of Shaw
-## 0.4.3
+## 0.4.3 beta
 *July 4th, 2026*
 
 - Improved the layout of the [[Blasphemies]] page on Desktop (This will likely break the page on Mobile)
-## 0.4.2
+## 0.4.2 beta
 *July 4th, 2026*
 
 - Approved access to the [[Grace]] article
-## 0.4.1
+## 0.4.1 beta
 *July 4th, 2026*
 
 - Fixed the search function
