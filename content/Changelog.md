@@ -1,5 +1,11 @@
 # Beta
 
+## 0.5 beta
+*July 9th, 2026*
+
+- Overhauled every Blasphemy page and made adjustments to the styling of the [[Blasphemies|Blasphemy Hub]].
+- Added game rules for all blasphemies for players to refer to.
+
 ## 0.4.5 beta
 *July 5th, 2026*
 

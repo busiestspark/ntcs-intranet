@@ -13,14 +13,9 @@ tags:
 	justify-items: center;
 	justify-content: center;
 	align-content: center;
-	padding: 40px
-	min-height: 100vh;
-	
-	perspective: 1000px;
+	padding: 40px;
 
-	background color: #121212;
-	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://w3.org' width='160' height='160' viewBox='0 0 160 160'%3E%3Ctext x='50%25' y='50%25' font-family='sans-serif' font-size='14' font-weight='bold' fill='rgba(255, 255, 255, 0.04)' text-anchor='middle' dominant-baseline='middle' transform='rotate(-45 80 80)'%3ETEXT%3C/text%3E%3C/svg%3E");
-	background-repeat: repeat;
+	perspective: 1000px;
 }
 
 .tilt-card {
@@ -34,16 +29,20 @@ tags:
 	border: 2px solid #008000;
 	box-shadow: 0 20px 40px rgba(0,0,0,0.5);
 
-	transform-style: preserve-3d;
-	will-change: transform;
-	transition: transform 0.1s ease-out;
+	transition: transform 0.2s ease;
+}
+
+.tilt-card:hover {
+	transform: translateZ(15px);
+
+	transition: transform 0.2s ease;
 }
 
 .tilt-card img {
   width: 100%;
   height: 70%;
-  object-fit: contain; /* Crops the image perfectly to fit without stretching */
-}
+  object-fit: contain;
+  
 </style>
 
 **Blasphemies** are the psychic abilities wielded by exorcists. They are divided into twelve major types and four experimental types. Blasphemies falling outside of these standards, such as mutations and High Blasphemies, are considered unusual and are typically unique to an individual.
@@ -357,38 +356,3 @@ These are blasphemies that were either created through special procedures or whi
 # High Blasphemies
 
 These are mutant Blasphemies exhibited by the [[Virtues]]. They are currently believed to be wholly unique and are all immensely powerful. As every High Blasphemy is unique to their exorcist, more information on them can be found on each Virtue's page.
-
-<script>
-window.addEventListener('pageshow', () => {
-  const cards = document.querySelectorAll('.tilt-card');
-
-  cards.forEach(card => {
-    // Clear any leftover inline transforms from the cached state
-    card.style.transform = 'rotateX(0deg) rotateY(0deg)';
-
-    card.addEventListener('mousemove', (e) => {
-      const cardRect = card.getBoundingClientRect();
-      const x = e.clientX - cardRect.left;
-      const y = e.clientY - cardRect.top;
-      
-      const centerX = cardRect.width / 2;
-      const centerY = cardRect.height / 2;
-      
-      const maxTilt = 15;
-      const rotateX = ((centerY - y) / centerY) * maxTilt;
-      const rotateY = ((x - centerX) / centerX) * maxTilt;
-      
-      card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-    });
-
-    card.addEventListener('mouseleave', () => {
-      card.style.transition = 'transform 0.5s ease';
-      card.style.transform = 'rotateX(0deg) rotateY(0deg)';
-    });
-
-    card.addEventListener('mouseenter', () => {
-      card.style.transition = 'transform 0.1s ease-out';
-    });
-  });
-});
-</script>

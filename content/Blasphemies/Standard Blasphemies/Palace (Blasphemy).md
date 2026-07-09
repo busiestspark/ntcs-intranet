@@ -4,6 +4,161 @@ tags:
 image: "[[Palace Card.png]]"
 blsphID: "10"
 ---
+<style>
+
+.section-background {
+	width: 50%;
+	background: linear-gradient(90deg, #161616, rgba(0,0,0,0));
+}
+
+.section-header {
+	width: 20%;
+
+	text-align: left;
+	font-family: Cuasigothic;
+	font-size: 1.5rem;
+
+	margin: 20px 0px 20px 10px;
+	padding: 10px 0;
+
+	background: linear-gradient(white, gray);
+
+	-webkit-background-clip: text;
+	background-clip: text;
+	
+	color: transparent;
+}
+
+.tooltip {
+	width: 20%;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border: 2px solid rgba(0,0,0,0.5);
+	border-radius: 1.3rem;
+
+	margin: 10px 0;
+	padding: 10px;
+
+	transform: translateZ(0px);
+	transition: transform 0.2s ease;
+
+	background: linear-gradient(145deg, #200020, #8B008B);
+
+	position: relative;
+
+	z-index: 1;
+}
+
+.tooltip:hover {
+	z-index: 10;
+}
+
+.tooltip:hover .passive,
+.tooltip:hover .quirk,
+.tooltip:hover .power {
+	visibility: visible;
+	opacity: 1;
+	transition: opacity 0.2s ease-in-out;
+}
+
+.card-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+	
+	perspective: 1000px;
+	transform-style: preserve-3d;
+
+}
+
+.passive,
+.quirk,
+.power {
+	visibility: hidden;
+	opacity: 0;
+
+	height: fit;
+	width: 150%;
+
+	top: -5px;  
+	left: 105%;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	border: 2px solid rgba(0,0,0,0.5);
+	border-radius: 1.3rem;
+
+	padding: 15px;
+
+	transform: translateZ(0px);
+	transition: transform 0.2s ease;
+
+	position: absolute;
+
+	z-index: 2;
+
+	transition: opacity 0.2s ease;
+}
+
+.passive,
+.power {
+	background-image: linear-gradient(145deg, #200020, #8B008B);
+}
+
+.quirk {
+	background-image: linear-gradient(145deg, #003030, #8B008B);
+}
+
+.tooltip-title {
+	font-family: Cuasigothic;
+	font-size: 1.5rem;
+
+	text-align: center;
+
+	background: linear-gradient(white, gray);
+
+	-webkit-background-clip: text;
+	background-clip: text;
+	
+	color: transparent;
+}
+
+.tags {
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	color: rgba(255,255,255,0.8);
+
+	text-align: center;
+	
+	margin-top: 5px;
+}
+
+.description {
+	font-family: Arial;
+	color: white;
+	margin-top: 10px;
+}
+
+.credit {
+	width: 100%;
+
+	font-family: Arial;
+	font-style: italic;
+	text-align: right;
+	color: rgba(255,255,255,0.6);
+
+	margin-top: 5px;
+}
+</style>
+
 <div class="infobox" >
 <div class="infobox-title">Palace</div>
 
@@ -17,3 +172,263 @@ blsphID: "10"
 **Palace** is a standard [[Blasphemies|Blasphemy]].
 
 It is concerned with the subconscious mind and the manifestation of the mindscape.
+
+# Abilities
+
+<div class="section-background">
+	<div class="section-header">
+	Passives
+	</div>
+</div>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+	<div class="tooltip">
+		<div class="tooltip-title">SANCTUM</div>
+		<div class="passive">
+			<div class="tooltip-title">SANCTUM</div>
+			<div class="tags">Passive</div>
+			<div class="description">
+				You and allies you rest with can enter your psychic
+palace while resting. This improves the resting rolls of
+yourself and one ally of your choice resting with you by +1.<br><br>
+• The palace is a mental projection, a dream space that takes the
+form of a large home, residence, or mansion in a locale of your
+choosing. Walking off the premises merely returns you to the
+locale. As a purely psychic phenomena, you can control its
+appearance and decor.<br><br>
+• Taking harm in a palace instantly shunts a person out of it,
+waking them up, instead of dealing them real harm. Visitors
+can leave any time.<br><br>
+• Entering the palace mentally requires only closing your eyes
+and concentrating, leaving your outside body defenseless and
+insensate. It can be done by you any time, and by your allies
+by resting with you, or with your powers.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+	<div class="tooltip" style="background-image: linear-gradient(145deg, #003030, #8B008B);">
+		<div class="tooltip-title">RECLUSE</div>
+		<div class="quirk">
+			<div class="tooltip-title">RECLUSE</div>
+			<div class="tags">Quirk</div>
+			<div class="description">
+				Only you can enter your palace
+(with the exception of the bar
+power, and psychic doubles,
+such as from parlor). It grants no
+resting benefits, but otherwise
+functions as the normal
+Sanctum power. In addition, you
+can enter it any time you like by
+concentrating for a few moments.<br><br>
+When you enter your palace, you physically
+disappear and are replaced by a palace port,
+which is a small reflective object. Historically,
+these have been things like gemstones, mirrors,
+or basins of water, but in modern times have
+sometimes become things like phone screens,
+laptops, or portable video game consoles.
+Outside observers, including mundane humans
+can see and talk to you inside your palace,
+though your voice and apperance may seem
+distant or distorted. While inside your palace,
+you can use powers from this blasphemy
+normally to affect the outside world.<br><br>
+You remain in the palace until you voluntarily
+leave. If the object is damaged, you are shunted
+out, take stress as if you were targeted by that
+damage, and you cannot re-enter until you rest.
+The port can be supernaturally repaired during a
+rest at no cost.
+			</div>
+			<div class="credit">From Games for Freaks Vol. 4</div>
+		</div>
+	</div>
+	<div class="tooltip" style="background-image: linear-gradient(145deg, #003030, #8B008B);">
+		<div class="tooltip-title">MANIFOLD</div>
+		<div class="quirk">
+			<div class="tooltip-title">MANIFOLD</div>
+			<div class="tags">Quirk</div>
+			<div class="description">
+				Your palace functions as the normal Sanctum power,
+except:<br><br>
+Once a hunt, when you open any door or cross any
+threshold, you can instead open a door to a single
+room of your choice in your palace, physically
+manifesting it. Doing so does not require spending a
+PSYCHE burst. Opening any door out of this room
+opens and connects to a random door nearby,
+determined by the GM. The space inside your palace
+could be larger than is physically possible from the
+outside.<br><br>
+When you use any palace power, including its passive,
+you must physically manifest the corresponding part of
+your palace as part of that power, as prior, though you
+can do this any number of times. If you don’t have a
+door on hand to do this with, you can’t activate the
+power, though any door will qualify (car doors,
+microwave or fridge doors, etc).<br><br>
+Other beings can enter your manifested palace rooms,
+even those hostile to you. The rooms stops existing
+when you are no longer physically inside or are outside
+and let go of the door handle, and push out anyone or
+anything from the outside reality when they collapse
+back into their original form.
+			</div>
+			<div class="credit">From Games for Freaks Vol. 4</div>
+		</div>
+	</div>
+</div>
+
+<div class="section-background">
+	<div class="section-header">
+	Powers
+	</div>
+</div>
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+	<div class="tooltip">
+		<img src="Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<div class="tooltip-title">CELLAR</div> 
+		<div class="power">
+			<div class="tooltip-title">CELLAR</div>
+			<div class="tags">Instant, Charm, Infinite Range</div>
+			<div class="description">
+				You can simulate situations inside your palace
+before putting them into practice in reality. You
+can use this power and roll to set up a number
+of allies equal to ½ CAT even if you are not
+physically present. However, you may only set
+up a target if you can describe the way in which
+you trained or prepared with them, or a psychic
+copy of them, for the current situation. This
+setup can never be risky, but cannot lower risk.
+If you fail the setup roll, you may take 1d3
+nonlethal stress to re-roll it, taking the second
+result as final.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+	<div class="tooltip">
+		<img src="Free Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<div class="tooltip-title">LIBRARY</div>
+		<div class="power">
+			<div class="tooltip-title">LIBRARY</div>
+			<div class="tags">Instant, Self</div>
+			<div class="description">
+				Your palace has a library of information
+from the psychic gestalt. When you wish to
+gather information on or investigate any
+subject, you can gain +1D on the roll by
+accessing this library. However, afterwards
+the Admin rolls 1d6 for each of the
+following:<br><br>
+• Is the information rare?<br><br>
+• Is the information forbidden in some
+way?<br><br>
+• Is the information pertinent to a
+powerful group?<br><br>
+For each ‘1’, you take 2 nonlethal stress as
+you read something disturbing in the
+library.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+	<div class="tooltip">
+		<img src="Free Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<img src="Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<div class="tooltip-title">FOYER</div>
+		<div class="power">
+			<div class="tooltip-title">FOYER</div>
+			<div class="tags">1 Scene, Summon</div>
+			<div class="description">
+				<b>Passive:</b> Your palace has a tulpa, a psychic being
+that takes the form of a servant or butler. They are
+loyal to you, and you can determine their
+personality and appearance when you take this
+power.<br><br>
+<b>Active:</b> You summon your tulpa, choosing one:<br><br>
+• Have your tulpa aid you on a task related to
+research, crafting, or investigation, granting
++1D on your next roll and making an extra
+slash on a talisman for each ‘6’ you roll.<br><br>
+• Briefly manifest your tulpa outside your palace
+in short range as a real person for the scene, a
+mirror of their appearance inside your palace
+but dressed any way you like. They have
+roughly the capabilities of an average person
+(cat 0) and roll 2d for activities that a typical
+servant or butler could do and 0d for
+everything else. Any harm taken by them
+banishes them back to the palace.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+	<div class="tooltip">
+		<img src="Free Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<div class="tooltip-title">BAR</div>
+		<div class="power">
+			<div class="tooltip-title">BAR</div>
+			<div class="tags">Instant, Self</div>
+			<div class="description">
+				Once a scene, you can open any closed door and
+open it to your (actual, physical) bar instead of the
+room you would expect. It is a well stocked, typical
+small bar, including snacks, a couple hot plates, and
+alcoholic and non-alcoholic drinks. It restocks
+between missions. The bar only exists while you are
+inside or hold the door, and outside items or people
+inside are pushed out before it disappears.<br><br>
+When you rest in your bar, you can roll 1d3+1 and do
+one of the following, spending charges of the die you
+have just rolled per option:<br><br>
+• 1 charge: Erase 1 stress on one person<br><br>
+• 2 charges: Untick 1 tick on all hooks for a person<br><br>
+• 3 charges: Remove an injury<br><br>
+For each, describe a drink, snack, meal, or other form
+of relaxation or healing you are preparing for your
+guest.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+	<div class="tooltip">
+		<img src="Psyche Burst.png" alt="1 Psyche Burst" style="height: 2rem;">
+		<div class="tooltip-title">PARLOR</div>
+		<div class="power">
+			<div class="tooltip-title">PARLOR</div>
+			<div class="tags">1 Scene, Investigation Area</div>
+			<div class="description">
+				Choose one person or up to a CAT sized group of
+people in the investigation area and speak their
+(real) name(s) aloud. You can bring yourself and
+their psychic shadow inside your palace, no
+matter where they are.<br><br>
+If your target(s) are willing, you can choose to
+bring their actual psychic consciousness inside
+your palace, making them aware and remember
+what is going on while inside, as though in a
+dream. Their real body becomes unconscious and
+vulnerable. They can leave willingly.<br><br>
+You can instead bring a psychic double of a
+willing or unwilling person into your palace. For an
+unwilling person, roll PSYCHE and only spend a
+burst on success The the double is a psychic copy
+of their mind at the time of summoning. Any
+memories formed by the double will not transfer
+over. The double cannot leave until the scene
+ends, or until they take harm as usual.<br><br>
+A person or double summoned this way is not
+obligated in any way to behave differently than
+their original.<br><br>
+Gain or grant +1D on the next roll by yourself or
+an ally taking advantage of this power.
+			</div>
+			<div class="credit">From CAIN 1.4</div>
+		</div>
+	</div>
+</div>
