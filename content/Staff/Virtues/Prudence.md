@@ -68,32 +68,6 @@ Division: SERAPH
 
 # Overview
 
-<div style="display: flex;">
-	<div style="flex-grow: 1;">
-		<div>LIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Neat Whiskey<br>
-		- Romance Novels<br>
-		- Trains<br>
-		- Long walks
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>DISLIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- <a href="Charity">Charity</a><br>
-		- <a href="Justice">Justice</a><br>
-		- Explaining things to slow people
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>FAVORITE FOODS</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Nuts
-		</div>
-	</div>
-</div>
-
 **Prudence** is a Virtue currently stationed on the [[SERAPH Orbital Rail]].
 
 Prudence serves an essential role in maintaining CAIN's relationships with world governments through his Blasphemy, SHAKE. He is extremely busy, showing up around the world as CAIN's front-facing ambassador.

@@ -68,40 +68,6 @@ Division: SERAPH
 
 # Overview
 
-<div style="display: flex;">
-	<div style="flex-grow: 1;">
-		<div>LIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 10rem;">
-		- Dogs<br>
-		- Slow Afternoons<br>
-		- Taking Photos<br>
-		- Gachapon<br>
-		- Phone Games<br>
-		- Fighting Games
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>DISLIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 10rem;">
-		- <a href="Fortitude">Fortitude</a><br>
-		- Rude people<br>
-		- Work<br>
-		- Horror movies
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>FAVORITE FOODS</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 10rem;">
-		- Fast Food<br>
-		- Sweets<br>
-		- Hot Chicken
-		</div>
-	</div>
-</div>
-<div style="font-size: 0.85rem; text-align: right; color: #008000; padding-top: 3px;">
-All information was entered personally as part of the Open Information Initiative
-</div>
-
 **Faith** is a Virtue currently stationed on the [[SERAPH Orbital Rail]].
 
 Faith's Blasphemy, NULL, is unique in that it absorbs psychic energy, rendering her effectively immune to all psychic phenomena. This makes her extremely effective at combating rogue binders and other such psychic assets that rely heavily on psychic effects over physical force.

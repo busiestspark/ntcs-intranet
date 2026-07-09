@@ -68,32 +68,6 @@ Division: SERAPH
 
 # Overview
 
-<div style="display: flex;">
-	<div style="flex-grow: 1;">
-		<div>LIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Video Games<br>
-		- Luxurious Baths<br>
-		- Holidays
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>DISLIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Loud Noises<br>
-		- Nosy people<br>
-		- <a href="Justice">Justice</a><br>
-		- <a href="Fortitude">Fortitude</a><br>
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>FAVORITE FOODS</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Pre-packed meal 402A
-		</div>
-	</div>
-</div>
-
 **Hope** is a Virtue currently stationed on the [[SERAPH Orbital Rail]].
 
 Hope is instrumental to upholding the [[Veil Protocol]], named after their Blasphemy, VEIL. This Blasphemy allows Hope to purge the memories of individuals up to a select moment in time, allowing CAIN to move in for reprogramming efforts.

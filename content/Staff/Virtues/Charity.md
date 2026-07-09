@@ -68,37 +68,6 @@ Division: SERAPH
 
 # Overview
 
-<div style="display: flex;">
-	<div style="flex-grow: 1;">
-		<div>LIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- Fashion<br>
-		- Arguing online<br>
-		- Travel<br>
-		- Rainy days
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>DISLIKES</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- <a href="Justice">Justice</a><br>
-		- <a href="Faith">Faith</a><br>
-		- Boring people<br>
-		- Long conversations
-		</div>
-	</div>
-	<div style="flex-grow: 1;">
-		<div>FAVORITE FOODS</div>
-		<div style="border: 1px solid #00FF00; padding: 10px; height: 7rem;">
-		- High tea<br>
-		- Pork dumplings
-		</div>
-	</div>
-</div>
-<div style="font-size: 0.85rem; text-align: right; color: #008000; padding-top: 3px;">
-All information was entered personally as part of the Open Information Initiative
-</div>
-
 **Charity** is a Virtue currently stationed on the [[SERAPH Orbital Rail]].
 
 Thanks to their Blasphemy, ENTWINE, Charity consists of two individuals that share the same personality, emotions, and physical appearance. While they do not share memories, the "Charity twins" often keep up the illusion of a shared consciousness by finishing each other's sentences and empathizing heavily with each other's emotions.

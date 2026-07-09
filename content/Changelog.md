@@ -1,5 +1,10 @@
 # Beta
 
+
+## 0.5.1 beta
+*July 9th, 2026*
+
+- Removed <span class="redacted"><span>likes</span></span> from each Virtue's page.
 ## 0.5 beta
 *July 9th, 2026*
 
