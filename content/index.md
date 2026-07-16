@@ -84,13 +84,13 @@ AS ABOVE, SO BELOW
 
 <div style="display: flex; justify-content: space-between;">
 	<div>
-	CAIN-NET v0.5.1 beta<br>
+	CAIN-NET v0.6 beta<br>
 	<a href="Changelog">View Changelog</a><br><br>
 	<a href="Intranet Login">Log in to your intranet account here.</a>
 	</div>
 	<div style="text-align: right;">
 	<a href="Credits">View Credits</a><br><br>
-	<a href="WASP_NEST.home" style="color: yellow; display: none;">𓆤</a>
+	<a href="WASP_NEST.home" style="color: yellow;">𓆤</a>
 	</div>
 </div>
 

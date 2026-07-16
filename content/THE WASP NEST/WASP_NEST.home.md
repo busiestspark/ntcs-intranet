@@ -1,7 +1,5 @@
 ---
-unlisted: true
+unlisted: false
 ---
-
-Hey, I'm not done in here yet!
-
-~WASP
+\> [[safecracker.sh]]
+\> [[randomizer.fun]]

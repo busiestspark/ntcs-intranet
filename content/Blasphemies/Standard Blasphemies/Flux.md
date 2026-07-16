@@ -44,7 +44,7 @@ blsphID: "3"
 	transform: translateZ(0px);
 	transition: transform 0.2s ease;
 
-	background: linear-gradient(145deg, #000000, #8B0000);
+	background: linear-gradient(145deg, #200000, #8B0000);
 
 	position: relative;
 
@@ -108,7 +108,7 @@ blsphID: "3"
 
 .passive,
 .power {
-	background-image: linear-gradient(145deg, #000000, #8B0000);
+	background-image: linear-gradient(145deg, #200000, #8B0000);
 }
 
 .quirk {

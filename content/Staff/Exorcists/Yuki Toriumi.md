@@ -46,7 +46,7 @@ Division: CASTLE
 | | |
 | --- | --- |
 | **Category** | 5 |
-| **Blasphemy** | Sever |
+| **Blasphemy** | Cleave |
 | **Sin Seed** | Heart |
 
 <div style="display: flex; border-top: 1px solid #00FF00; padding: 10px; margin-top: 10px; justify-content: space-between; align-items: flex-end;">
@@ -89,11 +89,11 @@ Toriumi displayed a marked shift in personality when using her Blasphemy which o
 
 # Powers and Abilities
 
-Toriumi's Blasphemy, Sever, allows her to cleanly cut any object via mental impulse.
+Toriumi's Blasphemy, Cleave, allows her to cleanly cut any object via mental impulse.
 
-| LISTED ABILITY | DESCRIPTION                                                                                                                                                                                                                                                                                 |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Slice          | Toriumi can cleave any object in two with a mental impulse. Multiple cuts can be inflicted at once, with the effects losing potency when making a large number of cuts or cutting a large area. This action is often accompanied by violent hand gestures, although they are not necessary. |
-| Fuse           | Toriumi can fuse two surfaces, causing them to become connected. The strength of this connection degrades when connecting larger surface areas.                                                                                                                                             |
+| LISTED ABILITY | DESCRIPTION                                                                                                                                                                                                                                                                                          |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Slice          | Toriumi can cleave any physical object in two with a mental impulse. Multiple cuts can be inflicted at once, with the effects losing potency when making a large number of cuts or cutting a large area. This action is often accompanied by violent hand gestures, although they are not necessary. |
+| Fuse           | Toriumi can fuse two surfaces, causing them to become connected. The strength of this connection degrades when connecting larger surface areas.                                                                                                                                                      |
 
 [^1]: Despite reprogramming efforts, Toriumi continued to display this behavior through her service, escalating up to and including threatening CAIN personnel.

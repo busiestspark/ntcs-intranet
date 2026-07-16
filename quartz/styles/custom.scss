@@ -10,6 +10,11 @@
     }
 }
 
+@font-face {
+  font-family: Cuasigothic;
+  src: url(../static/Cuasigothic.otf);
+}
+
 body::after {
     content: "This website is not affiliated with Tom Bloom/CHASM.";
     display: block;
@@ -102,20 +107,33 @@ body::after {
   }
 }
 
+.email-wrapper {
+  --email-color: #00FF00;
+
+  /* Derived colors */
+    --email-bg: color-mix(in srgb, var(--email-color) 12%, black);
+    --email-bg-hover: color-mix(in srgb, var(--email-color) 18%, black);
+    --email-border: var(--email-color);
+    --email-text-muted: color-mix(in srgb, var(--email-color) 50%, black);
+}
+
 .email {
   position: relative;
-  padding-left: 45px;
-
-  background-color: #001000;
-  border: 1px solid #008000;
-  cursor: pointer;
   padding: 18px;
+  padding-left: 45px;
   width: 100%;
+
+  background-color: var(--email-bg);
+  border: 1px solid var(--email-border);
+  color: var(--email-border);
+  
+  font: inherit;
   text-align: left;
-  outline: none;
-  font-family: inherit;
-  color: inherit;
-  font-size: inherit;
+  cursor: pointer;
+}
+
+.active, .email:hover {
+  background-color: var(--email-bg-hover);
 }
 
 .email::before {
@@ -126,7 +144,7 @@ body::after {
   transform: translateY(-50%);
   font-weight: bold;
   font-size: 1.2rem;
-  color: #00FF00;
+  color: var(--email-border);
   transition: transform 0.2s ease-out;
 }
 
@@ -134,19 +152,17 @@ body::after {
   transform: translateY(-50%) rotate(90deg);
 }
 
-.active, .email:hover {
-  background-color: #004000;
-}
-
 .email-content {
-  background-color: #001000;
+  background-color: var(--email-bg);
+  border: 1px solid var(--email-border);
+  border-top: none;
+
+  color: var(--email-border);
 
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-out, padding 0.2s ease-out;
-
   padding: 0 18px;
-
+  transition: max-height 0.2s ease-out, padding 0.2s ease-out;
 }
 
 a.internal, a.markdown-embed-link, .page-body a {

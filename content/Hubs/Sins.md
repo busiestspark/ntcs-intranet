@@ -4,7 +4,7 @@ tags:
 ---
 **Sins** are the primary threats faced by CAIN.
 
-They are noological entities created when a graceful individual suffers an intense, traumatic event. Sins are generally hostile and extremely dangerous to human life, making the elimination of them a top priority.
+They are noological entities created when a graced individual suffers an intense, traumatic event. Sins are generally hostile and extremely dangerous to human life, making the elimination of them a top priority.
 
 # Basic Traits
 

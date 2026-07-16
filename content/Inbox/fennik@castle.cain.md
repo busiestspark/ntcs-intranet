@@ -5,16 +5,49 @@ unlisted: true
 [[Intranet Login|Return to login]]
 
 <div style="color: yellow">
-✉ You have <b>1</b> new message since <b>July 1st, 2026</b>.
+✉ You have <b>1</b> new message since <b>July 16th, 2026</b>.
 </div>
 
 # Recent Messages
 
-<div>
+<div class="email-wrapper" style="--email-color: #FFFF00">
 <button type="button" class="email">
 	<div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
 		<div style="text-align: left; padding-left: 30px;">
-			<div style="font-size: 0.85rem; color: #008000;">emorrow@castle.cain</div>
+			<div style="font-size: 0.85rem; color: var(--email-text-muted);">wasp@castle.cain</div>
+			<div>check this shit out</div>
+		</div>
+		<div>
+			<span class="time-elapsed" data-date="2026-07-16"></span>
+			<b>July 16th, 2026</b>
+		</div>
+	</div>
+</button>
+<div class="email-content">
+	<b>TO:</b> all<br>
+	<b>FROM:</b> <a href="WASP" style="color: var(--email-border);">wasp@castle.cain</a><br>
+	<b>SUBJECT:</b> check this shit out<br><br>
+sup chucklenuts<br><br>
+liking the intranet so far? no? well im boutta change that<br><br>
+i added a little smth smth to the front page for ~trusted users~
+<br><br>
+FUN BUTTON -> 𓆤
+<br><br>
+it doesnt have much atm but trust me this shits gonna be gas when it gets off the ground. im talkin like. coolmathgames type shit if any of you remember that
+<br><br>
+oh btw if you tell the execs about this i will personally tp into your room and kick you in the cunt
+<br><br>
+cool? sweet
+</div>
+</div>
+
+# Older Messages
+
+<div class="email-wrapper" style="--email-color: #00FF00">
+<button type="button" class="email">
+	<div style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
+		<div style="text-align: left; padding-left: 30px;">
+			<div style="font-size: 0.85rem; color: var(--email-text-muted);">emorrow@castle.cain</div>
 			<div>New Intranet Access</div>
 		</div>
 		<div>
@@ -25,7 +58,7 @@ unlisted: true
 </button>
 <div class="email-content">
 	<b>TO:</b> all<br>
-	<b>FROM:</b> <a href="Emmanuel Morrow">emorrow@castle.cain</a><br>
+	<b>FROM:</b> <a href="Emmanuel Morrow" style="color: var(--email-border);">emorrow@castle.cain</a><br>
 	<b>SUBJECT:</b> New Intranet Access<br><br>
 Good evening, exorcists.
 
@@ -41,10 +74,6 @@ Regards,
 Emmanuel Morrow, Senior Operation Advisor
 </div>
 </div>
-
-# Older Messages
-
-
 
 ---
 
@@ -96,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function() {
 	    }
 
 		label.innerText = relativeTimeString;
-		label.style.color = "#008000";
+		label.style.color = "rgb(from inherit calc(r - 128) calc(g - 128) calc(b - 128) / a)";
 		label.style.marginRight = "5px";
 	});
 });

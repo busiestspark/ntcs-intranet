@@ -22,9 +22,9 @@ button[type=submit] {
 </form>
 
 <br>
-<div style="padding-right: calc(400px);">
-<div style="color: yellow; border: 1px solid yellow; padding: 1rem;">⚠ NOTICE<br><br>CAIN does not take responsibility for breaches of privacy resulting from misplaced passkeys.
-</div>
+<div style="width: 50%;">
+	<div style="color: yellow; border: 1px solid yellow; padding: 1rem;">⚠ NOTICE<br><br>CAIN does not take responsibility for breaches of privacy resulting from misplaced passkeys.
+	</div>
 </div>
 
 <script>
