@@ -1,7 +1,11 @@
 # Beta
 
+## 0.6.1 beta
+*July 17th, 2026*
+
+- Approved [[Mr. Whittaker|1 new Archive Entry]] for viewing.
 ## 0.6 beta
-*Unreleased*
+*July 16th, 2026*
 
 - Updated the [[Blasphemies]] page and numerous articles for improved reading with varying screen sizes and ratios.
 - Fixed the font discrepancy on the Blasphemy pages.
